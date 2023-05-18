@@ -26,6 +26,6 @@
 ### - Number of Earth Days in a Martian Year
 - A plot of minimum temperature recording on Mars per Earth day
 - Assuming that Mars orbits the Sun once between temperature peaks, looking at the number of days between peaks should give a rough estimate of the number of terrestrial days in a Martian year.
-- Going from one peak (Day 750, Min Temp -65C) to the next peak (Day 1425, Min Temp -67C), we can estimate that (1425 - 750) = roughly 675 terrestrial days occur during a Martian year.
-- According to [NASA](https://mars.nasa.gov/resources/21392/mars-in-a-minute-how-long-is-a-year-on-mars/), there are approximately 687 Earth days in a Martian year. Our estimate of 675 is about 2% lower than the official number.            
+- Going from one peak (Day `750`, Min Temp -65C) to the next peak (Day `1425`, Min Temp -67C), we can estimate that (`1425` - `750`) = roughly `675` terrestrial days occur during a Martian year.
+- According to [NASA](https://mars.nasa.gov/resources/21392/mars-in-a-minute-how-long-is-a-year-on-mars/), there are approximately `687` Earth days in a Martian year. Our estimate of `675` is about `2%` lower than the official number.            
 ![days](Mars/outputs/terrestrial_days.png "Minimum Temperature per Earth Day")
